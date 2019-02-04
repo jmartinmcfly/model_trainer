@@ -1,0 +1,9 @@
+*.vscode/settings.json
+DataClean.py.ipynb
+*.ipynb_checkpoints
+peformance.py
+*.pyc
+*/__pycache__
+.cache/*
+.pytest_cache/*
+.pylintrc

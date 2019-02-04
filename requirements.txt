@@ -1,0 +1,11 @@
+dill
+tensorflow
+numpy 
+scipy
+scikit-learn
+pandas
+pillow
+h5py
+keras
+pytest
+matplotlib

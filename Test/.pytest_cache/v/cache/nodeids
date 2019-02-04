@@ -1,0 +1,7 @@
+[
+  "parser_test.py::test_mac_dict",
+  "parser_test.py::test_parse_json_new_model[data/temp.json]",
+  "parser_test.py::test_parse_json_new_model[data/classify1.json]",
+  "parser_test.py::test_encode",
+  "train_script_test.py::test_train_dataset1"
+]

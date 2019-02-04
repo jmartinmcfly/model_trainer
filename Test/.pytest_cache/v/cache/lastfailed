@@ -1,0 +1,5 @@
+{
+  "parser_test.py::test_parse_json_new_model[Data/temp.json]": true,
+  "parser_test.py::test_parse_json_new_model[Data/temp_tiny.json]": true,
+  "train_script_test.py::test_train_dataset1": true
+}
