@@ -147,7 +147,7 @@ classify.py usage:
 
 A data science pipeline generally follows these steps:
 
-![pipeline](documentation/Photos/ML_Funnel.JPG)
+![pipeline](Documentation/Photos/ML_Funnel.JPG)
 
 DATA COLLECTION AND TRAINING PHASE:
 
